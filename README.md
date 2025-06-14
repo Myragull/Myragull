@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **hello.myragull@gmail.com** For Collaboration/Project or T
 - 😄 **Pronouns:**  She/Her  
 - ⚡ **Fun fact:**  I love documenting my journey — from daily coding challenges to valuable tech tips — and sharing them to help others grow too!
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/myra-gull) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.myragull@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.myragull@gmail.com) 
 [![X/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MyraCodes_)
 
 
