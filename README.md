@@ -4,7 +4,7 @@
 ✨ **About me**
 - 🎓 CS student from Pakistan
 - 🧩 Love solving real-world problems with code
-- 🗂️ Documenting my progress on [X](https://x.com/MyraCodes_) & [LinkedIn](www.linkedin.com/in/myra-gull)
+- 🗂️ Documenting my progress on [X](https://x.com/MyraCodes_) & [LinkedIn](https://www.linkedin.com/in/myra-gull/)
 - ✨ Fun fact: I love turning what I learn into bite-sized posts for other beginners!
 - 
 ## 🌐 Socials:
