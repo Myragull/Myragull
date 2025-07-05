@@ -1,19 +1,15 @@
-# 💫 Hi 👋, I'm Myra Gull
-**An aspiring Full-Stack Developer || Sharing my coding journey || Building Projects**
+#  Hi 👋, I'm Myra Gull
+** aspiring Full-Stack Developer || Sharing my coding journey || Building Projects**
 
-Email Me 👉 ✉️ **hello.myragull@gmail.com** For Collaboration/Project or Tech Talks. 😊😊
-
-- 🔭 **I’m currently working on:**Full-stack projects and improving my frontend skills 
-- 🌱 **I’m currently learning:**React, GitHub, and exploring backend technologies 
-- 👯 **I’m looking to collaborate on:** Beginner-friendly web development projects and open-source contributions
-- 🤔 **I’m looking for help with:** Real-world project structures and solving complex bugs 
-- 💬 **Ask me about:**  My coding journey, project challenges, tips, or anything related to learning to code 
-- 📫 **How to reach me:** hello.myragull@gmail.com
-- 😄 **Pronouns:**  She/Her  
-- ⚡ **Fun fact:**  I love documenting my journey — from daily coding challenges to valuable tech tips — and sharing them to help others grow too!
+✨ **About me**
+- 🎓 CS student from Pakistan
+- 🧩 Love solving real-world problems with code
+- 🗂️ Documenting my progress on [X](https://x.com/MyraCodes_) & [LinkedIn](https://www.linkedin.com/in/YourLinkedInHere)
+- ✨ Fun fact: I love turning what I learn into bite-sized posts for other beginners!
+- 
 ## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello.myragull@gmail.com) 
 [![X/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MyraCodes_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myra-gull)
 
 
 # 💻 Tech Stack:
