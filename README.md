@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Myra Gull
-** aspiring Full-Stack Developer || Sharing my coding journey || Building Projects**
+ aspiring Full-Stack Developer || Sharing my coding journey || Building Projects
 
 ✨ **About me**
 - 🎓 CS student from Pakistan
