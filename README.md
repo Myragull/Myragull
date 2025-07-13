@@ -8,7 +8,7 @@
 - ✨ Fun fact: I drink more tea when debugging than writing code!
 
 ## 🌐 Socials:  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MyraCodes_)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.myragull@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]( https://www.instagram.com/myracodes_/)  
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MyraCodes_)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]( https://www.instagram.com/myracodes_/)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.myragull@gmail.com) 
 
 
 # 💻 Tech Stack:  
