@@ -10,7 +10,7 @@
 ## 🌐 Socials:  
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MyraCodes_)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]( https://www.instagram.com/myracodes_/)  
-📧 **Email:**(hello.myragull@gmail.com)
+[![Email](hello.myragull@gmail.com)
 
 
 # 💻 Tech Stack:  
