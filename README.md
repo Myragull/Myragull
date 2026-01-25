@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./Frame 5.png" alt="Hi, I'm Myra Gull - Fullstack Developer" width="100%" />
+</div>
+
+
+
+<div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="33%" valign="top" style="padding-right: 10px;">
