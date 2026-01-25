@@ -45,6 +45,13 @@
     hello.myragull@gmail.com
   </a>
 </h3>
+ ---
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=myragull&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
+ <h3>📊 GitHub Stats</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=myragull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myragull&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+</p>
+
+---
