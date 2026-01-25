@@ -8,7 +8,7 @@
   <h3>🌐 Connect with Me 🌐</h3>
 
 <a href="https://x.com/MyraCodes_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   
   <a href="https://www.threads.net/@myracodes">
