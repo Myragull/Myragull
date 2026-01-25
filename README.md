@@ -4,7 +4,6 @@
 
 ---
 
-<div align="center">
   <h3>🌐 Connect with Me 🌐</h3>
 
   <a href="https://x.com/MyraCodes_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -15,7 +14,6 @@
   &nbsp;
   <a href="https://leetcode.com/Myragull"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   &nbsp;
-</div>
 
 ---
 <div align="center">
@@ -100,5 +98,13 @@
   </h3>
 </div>
 
+
+---
+
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Myragull&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
+</div>
 
 ---
