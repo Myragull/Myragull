@@ -88,6 +88,9 @@
 
 </div>
 
+---
+
+
 <div align="center">
   <h3>
     You can reach me at: 
@@ -96,5 +99,6 @@
     </a>
   </h3>
 </div>
+
 
 ---
