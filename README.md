@@ -10,7 +10,6 @@
 <a href="https://x.com/MyraCodes_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;
   
   <a href="https://www.threads.net/@myracodes">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
