@@ -55,3 +55,7 @@
 </p>
 
 ---
+<br />
+<h3>💭 Quote of the Day</h3>
+<img src="./quote.png" alt="You're not late. You just don't believe in yourself." width="100%" />
+<br />
