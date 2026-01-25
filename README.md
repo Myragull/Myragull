@@ -13,7 +13,6 @@
   &nbsp;
   <a href="https://www.instagram.com/myracodes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/myragull"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/Myragull"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   &nbsp;
 </div>
