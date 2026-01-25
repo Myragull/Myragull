@@ -40,5 +40,3 @@
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=myragull&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
-
-
