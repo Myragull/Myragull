@@ -16,7 +16,6 @@
   &nbsp;
 
 ---
-<div align="center">
   <h3>💻 Tech Stack & Tools 💻</h3>
 
   <h3>🧩 Frontend</h3>
@@ -84,27 +83,15 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=chatgpt&logoColor=white" />
 
-</div>
-
 ---
-
-
-<div align="center">
   <h3>
     You can reach me at: 
     <a href="hello.myragull@gmail.com" style="color: #3b82f6; text-decoration: none;">
       hello.myragull@gmail.com
     </a>
   </h3>
-</div>
-
 
 ---
 
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Myragull&color=0e75b6&style=flat-square&label=Profile+views" alt="Profile views" />
-</div>
 
----
