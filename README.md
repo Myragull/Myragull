@@ -87,3 +87,14 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=chatgpt&logoColor=white" />
 
 </div>
+
+<div align="center">
+  <h3>
+    You can reach me at: 
+    <a href="hello.myragull@gmail.com" style="color: #3b82f6; text-decoration: none;">
+      hello.myragull@gmail.com
+    </a>
+  </h3>
+</div>
+
+---
