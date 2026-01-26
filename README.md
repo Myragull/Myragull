@@ -45,17 +45,20 @@
     hello.myragull@gmail.com
   </a>
 </h3>
- ---
 
- <h3>📊 GitHub Stats</h3>
+<hr />
+
+<h3>📊 GitHub Stats</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=myragull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myragull&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </p>
 
----
+<hr />
 
 <h3>💭 Quote of the Day</h3>
 <img src="./quote.png" alt="You're not late. You just don't believe in yourself." width="100%" />
 <br />
+
+
