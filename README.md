@@ -58,4 +58,4 @@
 <hr />
 
 <h3>💭 Quote of the Day</h3>
-<img src="./quote.png" alt="You're not late. You just don't believe in yourself." width="100%" />
+<img src="./Frame 6.png" alt="You're not late. You just don't believe in yourself." width="100%" />
