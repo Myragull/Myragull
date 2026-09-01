@@ -1,61 +1,60 @@
-<img src="./Frame 5.png" alt="Hi, I'm Myra Gull - Fullstack Developer" width="100%" />
+# Hey, I'm Myra 👋
+
+I build AI-powered automation systems, LLM applications, and
+agentic workflows that connect AI with real-world business processes.
+
+## ⚙️ What I Do
+
+- 🤖 AI Automation — Build end-to-end business workflows using n8n, Make.com, APIs, and webhooks
+- 🧠 AI & LLM Applications — Integrate LLMs with structured prompts, tool calling, and AI-driven decision making
+- 🕸️ AI Agents & Agentic Workflows — Build agents and multi-step workflows using LangChain and LangGraph
+- 🔎 RAG Systems — Build knowledge-based AI systems using document processing, embeddings, retrieval, and vector databases
+- 🔗 API & Tool Integrations — Connect AI systems with business platforms, SaaS tools, databases, and external APIs
+- 🗄️ Data & CRM Automation — Automate customer data, CRM operations, communication, and business processes
+- 🛠️ Workflow Engineering — Build triggers, conditions, data mapping, authentication, error handling, and reliable automation logic
 
 ---
 
-<h3>🌐 Connect with Me 🌐</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://x.com/MyraCodes_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.threads.net/@myracodes"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a> <a href="https://www.instagram.com/myracodes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://leetcode.com/Myragull"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
+### ⚙️ Automation
+`n8n` · `Make.com`
 
----
+### 🧠 AI & LLM
+`OpenRouter` · `OpenAI` · `Gemini` · `Ollama` · `LLMs` · `Embeddings` · `Prompt Engineering`
 
-<h3>💻 Tech Stack & Tools 💻</h3>
+### 🕸️ Agents & AI Frameworks
+`LangChain` · `LangGraph` · `Tool Calling` · `Agentic Workflows`
 
-<h3>🧩 Frontend</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-</p>
+### 🔎 RAG & Knowledge
+`RAG` · `Pinecone` · `Vector Search` · `Document Processing`
 
-<h3>✨ Animations & UI Libraries</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/SwiperJS-6332F6?style=for-the-badge&logo=swiper&logoColor=white" /> <img src="https://img.shields.io/badge/Locomotive%2FLenis-000000?style=for-the-badge&logo=scrollreveal&logoColor=white" />
-</p>
+### 🔗 Integrations
+`WhatsApp Cloud API` · `Slack` · `Gmail` · `Google Drive` · `REST APIs` · `Webhooks`
 
-<h3>🧠 Backend & AI Engineering</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/VectorDB-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Gen)-007ACC?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### 🗄️ Databases & Data
+`PostgreSQL` · `Supabase` · `Airtable`
 
-<h3>📝 Languages</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+### 💻 Development
+`Python` · `JavaScript` · `Node.js` · `Git` · `Postman`
 
-<h3>🛠 Others & Tools</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=google-bard&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-FF4500?style=for-the-badge&logo=chatgpt&logoColor=white" />
-</p>
+### ☁️ Infrastructure
+`Docker` · `APIs`
 
 ---
 
-<h3>
-  You can reach me at: 
-  <a href="mailto:hello.myragull@gmail.com" style="color: #3b82f6; text-decoration: none;">
-    hello.myragull@gmail.com
-  </a>
-</h3>
+## 🌐 Connect
 
-<hr />
-
-<h3>📊 GitHub Stats</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=myragull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myragull&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+<a href="https://x.com/MyraCodes_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hello.myragull@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
-
-<hr />
-
-<h3>💭 Quote of the Day</h3>
-<img src="./Frame 6.png" alt="You're not late. You just don't believe in yourself." width="100%" />
