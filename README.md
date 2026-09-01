@@ -47,7 +47,6 @@ agentic workflows that connect AI with real-world business processes.
 
 <p align="left">
 <a href="https://x.com/MyraCodes_">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
