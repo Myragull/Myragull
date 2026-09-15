@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Myra Gull" width="100%">
+  <img src="./baner.png" alt="Myra Gull" width="100%">
 </p>
 
 # Hey, I'm Myra 👋
